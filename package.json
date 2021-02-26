@@ -1,5 +1,5 @@
 {
-  "name": "webpack-test-4",
+  "name": "webpack-basic-assembly",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,11 @@
     "dev": "cross-env NODE_ENV=development webpack --mode development",
     "start": "cross-env NODE_ENV=development webpack serve --mode development"
   },
-  "keywords": ["Webpack", "JawaScript", "HTML"],
+  "keywords": [
+    "Webpack",
+    "JawaScript",
+    "HTML"
+  ],
   "author": "Naum",
   "license": "ISC",
   "devDependencies": {
