@@ -1,0 +1,9 @@
+@import "./utilities/reset.scss";
+@import "./utilities/fonts.scss";
+@import "./utilities/vars.scss";
+@import "./utilities/mixins.scss";
+
+h1 {
+  font-size: 45px;
+  color: red;
+}
