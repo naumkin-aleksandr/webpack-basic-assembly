@@ -1,9 +1,13 @@
+// путь до импортируемых файлов, прописывается относительно файла style.scss
+
 @import "./utilities/reset.scss";
 @import "./utilities/fonts.scss";
 @import "./utilities/vars.scss";
 @import "./utilities/mixins.scss";
 
 h1 {
-  font-size: 45px;
-  color: red;
+    font-family: "Oswald";
+    font-size: 45px;
+    color: red;
+    text-align: center;
 }
